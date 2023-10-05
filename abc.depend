@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695709949 source:c:\users\amand\onedrive\dokumen\school\data structure and algorithm\abc\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
